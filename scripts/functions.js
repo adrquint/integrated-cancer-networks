@@ -4048,9 +4048,9 @@ function UpdateGenesNetwork() {
                 .style("opacity", 1);
             div.html(
                 '<a href= ' +
-                d.url + ' target=_blank>' + '<img src="http://www.genome.jp/Fig/kegg128.gif" style="width:30px;height:30px;">' +
+                d.url + ' target=_blank>' + '<img src="http://www.genome.jp/Fig/kegg128.gif" style="width:28px;height:26px;">' +
                 "</a>" +  '<a href= ' +
-                d.glink + ' target=_blank>' + '<img src="http://www.genecards.org/Images/Chromosome.png" style="width:30px;height:30px;">' +
+                d.glink + ' target=_blank>' + '<img src="http://www.genecards.org/Images/Chromosome.png" style="width:26px;height:26px;">' +
                 "</a>"                      // closing </a> tag
             )
                 .style("left", (d3.event.pageX - 28) + "px")
