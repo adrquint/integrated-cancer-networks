@@ -1218,6 +1218,7 @@ var graph = {
             "type": "circle",
             "label": "CAMK2A",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CAMK2A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMK2A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:815+hsa:816+hsa:817+hsa:818"
         },
@@ -1228,6 +1229,7 @@ var graph = {
             "type": "circle",
             "label": "CALML6",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CALML6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CALML6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:163688+hsa:51806+hsa:801+hsa:805+hsa:808+hsa:810"
         },
@@ -1238,6 +1240,7 @@ var graph = {
             "type": "circle",
             "label": "PDGFRA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDGFRA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFRA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5156+hsa:5159"
         },
@@ -1248,6 +1251,7 @@ var graph = {
             "type": "circle",
             "label": "PDGFA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDGFA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5154+hsa:5155"
         },
@@ -1258,6 +1262,7 @@ var graph = {
             "type": "circle",
             "label": "ELK1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ELK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ELK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2002"
         },
@@ -1268,6 +1273,7 @@ var graph = {
             "type": "circle",
             "label": "ILK",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ILK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ILK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3611"
         },
@@ -1278,6 +1284,7 @@ var graph = {
             "type": "circle",
             "label": "CTNNA1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CTNNA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1495+hsa:1496+hsa:29119"
         },
@@ -1288,6 +1295,7 @@ var graph = {
             "type": "circle",
             "label": "MSH3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MSH3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MSH3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4437"
         },
@@ -1298,6 +1306,7 @@ var graph = {
             "type": "circle",
             "label": "BAX",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BAX",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BAX",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:581"
         },
@@ -1308,6 +1317,7 @@ var graph = {
             "type": "circle",
             "label": "MSH6",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MSH6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MSH6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2956"
         },
@@ -1318,6 +1328,7 @@ var graph = {
             "type": "circle",
             "label": "BIRC5",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BIRC5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BIRC5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:332"
         },
@@ -1328,6 +1339,7 @@ var graph = {
             "type": "circle",
             "label": "RHOA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RHOA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RHOA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:387+hsa:5879+hsa:5880+hsa:5881"
         },
@@ -1338,6 +1350,7 @@ var graph = {
             "type": "circle",
             "label": "MSH2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MSH2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MSH2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4436"
         },
@@ -1348,6 +1361,7 @@ var graph = {
             "type": "circle",
             "label": "MLH1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MLH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MLH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4292"
         },
@@ -1358,6 +1372,7 @@ var graph = {
             "type": "circle",
             "label": "APPL1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=APPL1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=APPL1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:26060"
         },
@@ -1368,6 +1383,7 @@ var graph = {
             "type": "circle",
             "label": "CASP3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CASP3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CASP3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:836"
         },
@@ -1378,6 +1394,7 @@ var graph = {
             "type": "circle",
             "label": "DCC",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DCC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DCC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1630"
         },
@@ -1388,6 +1405,7 @@ var graph = {
             "type": "circle",
             "label": "RAD51",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAD51",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAD51",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5888"
         },
@@ -1398,6 +1416,7 @@ var graph = {
             "type": "circle",
             "label": "SMAD2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMAD2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4087+hsa:4088"
         },
@@ -1408,6 +1427,7 @@ var graph = {
             "type": "circle",
             "label": "STAT1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STAT1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6772"
         },
@@ -1418,6 +1438,7 @@ var graph = {
             "type": "circle",
             "label": "JAK1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JAK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JAK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3716"
         },
@@ -1428,6 +1449,7 @@ var graph = {
             "type": "circle",
             "label": "MAPK8",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAPK8",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPK8",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5599+hsa:5601+hsa:5602"
         },
@@ -1438,6 +1460,7 @@ var graph = {
             "type": "circle",
             "label": "PLD1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PLD1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PLD1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5337"
         },
@@ -1448,6 +1471,7 @@ var graph = {
             "type": "circle",
             "label": "RALBP1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RALBP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RALBP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10928"
         },
@@ -1458,6 +1482,7 @@ var graph = {
             "type": "circle",
             "label": "RALA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RALA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RALA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5898+hsa:5899"
         },
@@ -1468,6 +1493,7 @@ var graph = {
             "type": "circle",
             "label": "RALGDS",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RALGDS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RALGDS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5900"
         },
@@ -1478,6 +1504,7 @@ var graph = {
             "type": "circle",
             "label": "ARHGEF6",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ARHGEF6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ARHGEF6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9459"
         },
@@ -1488,6 +1515,7 @@ var graph = {
             "type": "circle",
             "label": "FLT4",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FLT4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2324"
         },
@@ -1498,6 +1526,7 @@ var graph = {
             "type": "circle",
             "label": "HEY1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HEY1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HEY1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:23462+hsa:23493+hsa:26508"
         },
@@ -1508,6 +1537,7 @@ var graph = {
             "type": "circle",
             "label": "HES1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HES1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HES1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3280+hsa:388585"
         },
@@ -1518,6 +1548,7 @@ var graph = {
             "type": "circle",
             "label": "FGF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FGF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FGF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2246+hsa:2247+hsa:2248+hsa:2249+hsa:2250+hsa:2251+hsa:2252+hsa:2253+hsa:2254+hsa:2255+hsa:2256+hsa:2257+hsa:2258+hsa:2259+hsa:26281+hsa:26291+hsa:27006+hsa:8074+hsa:8817+hsa:8822+hsa:8823+hsa:9965"
         },
@@ -1528,6 +1559,7 @@ var graph = {
             "type": "circle",
             "label": "BRCA2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BRCA2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:675"
         },
@@ -1538,6 +1570,7 @@ var graph = {
             "type": "circle",
             "label": "BRCA1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BRCA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:672"
         },
@@ -1548,6 +1581,7 @@ var graph = {
             "type": "circle",
             "label": "TNFSF11",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TNFSF11",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8600"
         },
@@ -1558,6 +1592,7 @@ var graph = {
             "type": "circle",
             "label": "WNT4",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=WNT4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=WNT4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:54361+hsa:7471"
         },
@@ -1568,6 +1603,7 @@ var graph = {
             "type": "circle",
             "label": "FGFR1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FGFR1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2260"
         },
@@ -1578,6 +1614,7 @@ var graph = {
             "type": "circle",
             "label": "NFKB2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NFKB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4791"
         },
@@ -1588,6 +1625,7 @@ var graph = {
             "type": "circle",
             "label": "LRP6",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=LRP6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4040+hsa:4041"
         },
@@ -1598,6 +1636,7 @@ var graph = {
             "type": "circle",
             "label": "FRAT1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FRAT1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FRAT1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10023+hsa:23401"
         },
@@ -1608,6 +1647,7 @@ var graph = {
             "type": "circle",
             "label": "CSNK1A1L",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CSNK1A1L",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CSNK1A1L",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:122011+hsa:1452"
         },
@@ -1618,6 +1658,7 @@ var graph = {
             "type": "circle",
             "label": "PGR",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PGR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PGR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5241"
         },
@@ -1628,6 +1669,7 @@ var graph = {
             "type": "circle",
             "label": "DLL3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DLL3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DLL3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10683+hsa:28514+hsa:54567"
         },
@@ -1638,6 +1680,7 @@ var graph = {
             "type": "circle",
             "label": "FOS",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FOS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FOS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2353"
         },
@@ -1648,6 +1691,7 @@ var graph = {
             "type": "circle",
             "label": "IGF1R",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=IGF1R",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=IGF1R",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3480"
         },
@@ -1658,6 +1702,7 @@ var graph = {
             "type": "circle",
             "label": "IGF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=IGF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=IGF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3479"
         },
@@ -1668,6 +1713,7 @@ var graph = {
             "type": "circle",
             "label": "NOTCH1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NOTCH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NOTCH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4851+hsa:4853+hsa:4854+hsa:4855"
         },
@@ -1678,6 +1724,7 @@ var graph = {
             "type": "circle",
             "label": "JAG1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JAG1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JAG1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:182+hsa:3714"
         },
@@ -1688,6 +1735,7 @@ var graph = {
             "type": "circle",
             "label": "NCOA3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NCOA3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NCOA3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8202+hsa:8648"
         },
@@ -1698,6 +1746,7 @@ var graph = {
             "type": "circle",
             "label": "ESR1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ESR1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ESR1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2099+hsa:2100"
         },
@@ -1708,6 +1757,7 @@ var graph = {
             "type": "circle",
             "label": "HGF",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HGF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HGF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3082"
         },
@@ -1718,6 +1768,7 @@ var graph = {
             "type": "circle",
             "label": "JUN",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JUN",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JUN",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3725"
         },
@@ -1728,6 +1779,7 @@ var graph = {
             "type": "circle",
             "label": "ETS1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ETS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ETS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2113"
         },
@@ -1738,6 +1790,7 @@ var graph = {
             "type": "circle",
             "label": "CDC42",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDC42",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC42",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:998"
         },
@@ -1748,6 +1801,7 @@ var graph = {
             "type": "circle",
             "label": "RAP1A",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAP1A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5906+hsa:5908"
         },
@@ -1758,6 +1812,7 @@ var graph = {
             "type": "circle",
             "label": "PAK4",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PAK4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PAK4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10298+hsa:106821730+hsa:5058+hsa:5062+hsa:5063+hsa:56924+hsa:57144"
         },
@@ -1768,6 +1823,7 @@ var graph = {
             "type": "circle",
             "label": "GAB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GAB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GAB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2549"
         },
@@ -1778,6 +1834,7 @@ var graph = {
             "type": "circle",
             "label": "MET",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MET",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MET",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4233"
         },
@@ -1788,6 +1845,7 @@ var graph = {
             "type": "circle",
             "label": "RAPGEF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAPGEF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAPGEF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2889"
         },
@@ -1798,6 +1856,7 @@ var graph = {
             "type": "circle",
             "label": "RAC1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAC1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAC1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5879+hsa:5880+hsa:5881"
         },
@@ -1808,6 +1867,7 @@ var graph = {
             "type": "circle",
             "label": "FH",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FH",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FH",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2271"
         },
@@ -1818,6 +1878,7 @@ var graph = {
             "type": "circle",
             "label": "FLCN",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FLCN",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FLCN",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:201163"
         },
@@ -1828,6 +1889,7 @@ var graph = {
             "type": "circle",
             "label": "PDGFB",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDGFB",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFB",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5155"
         },
@@ -1838,6 +1900,7 @@ var graph = {
             "type": "circle",
             "label": "EPAS1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EPAS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EPAS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2034+hsa:3091"
         },
@@ -1848,6 +1911,7 @@ var graph = {
             "type": "circle",
             "label": "EGLN2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EGLN2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EGLN2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:112398+hsa:112399+hsa:54583"
         },
@@ -1858,6 +1922,7 @@ var graph = {
             "type": "circle",
             "label": "VHL",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=VHL",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=VHL",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7428"
         },
@@ -1868,6 +1933,7 @@ var graph = {
             "type": "circle",
             "label": "TCEB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TCEB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TCEB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6921"
         },
@@ -1878,6 +1944,7 @@ var graph = {
             "type": "circle",
             "label": "TCEB2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TCEB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TCEB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6923"
         },
@@ -1888,6 +1955,7 @@ var graph = {
             "type": "circle",
             "label": "RBX1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RBX1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RBX1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9978"
         },
@@ -1898,6 +1966,7 @@ var graph = {
             "type": "circle",
             "label": "CUL2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CUL2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CUL2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8453"
         },
@@ -1908,6 +1977,7 @@ var graph = {
             "type": "circle",
             "label": "ARNT",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ARNT",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ARNT",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:405+hsa:9915"
         },
@@ -1918,6 +1988,7 @@ var graph = {
             "type": "circle",
             "label": "SLC2A1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SLC2A1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC2A1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6513"
         },
@@ -1928,6 +1999,7 @@ var graph = {
             "type": "circle",
             "label": "ALK",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ALK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ALK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:238+hsa:27436"
         },
@@ -1938,6 +2010,7 @@ var graph = {
             "type": "circle",
             "label": "PIK3CA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIK3CA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIK3CA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5290+hsa:5291+hsa:5293+hsa:5294"
         },
@@ -1948,6 +2021,7 @@ var graph = {
             "type": "circle",
             "label": "RASSF5",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RASSF5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RASSF5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:83593"
         },
@@ -1958,6 +2032,7 @@ var graph = {
             "type": "circle",
             "label": "STK4",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STK4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STK4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6789"
         },
@@ -1968,6 +2043,7 @@ var graph = {
             "type": "circle",
             "label": "TGFA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7039"
         },
@@ -1978,6 +2054,7 @@ var graph = {
             "type": "circle",
             "label": "PLCG1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PLCG1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PLCG1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5335+hsa:5336"
         },
@@ -1988,6 +2065,7 @@ var graph = {
             "type": "circle",
             "label": "FOXO3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FOXO3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FOXO3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2309"
         },
@@ -1998,6 +2076,7 @@ var graph = {
             "type": "circle",
             "label": "PRKCA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PRKCA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKCA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5578+hsa:5579+hsa:5582"
         },
@@ -2008,6 +2087,7 @@ var graph = {
             "type": "circle",
             "label": "CDKN2B",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN2B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN2B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1030"
         },
@@ -2018,6 +2098,7 @@ var graph = {
             "type": "circle",
             "label": "SKP2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SKP2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SKP2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6502"
         },
@@ -2028,6 +2109,7 @@ var graph = {
             "type": "circle",
             "label": "TRAF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TRAF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TRAF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7185+hsa:7186+hsa:7187+hsa:7188+hsa:7189+hsa:9618"
         },
@@ -2038,6 +2120,7 @@ var graph = {
             "type": "circle",
             "label": "PTGS2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTGS2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5743"
         },
@@ -2048,6 +2131,7 @@ var graph = {
             "type": "circle",
             "label": "NOS2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NOS2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NOS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4843"
         },
@@ -2058,6 +2142,7 @@ var graph = {
             "type": "circle",
             "label": "BIRC8",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BIRC8",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BIRC8",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:112401+hsa:329+hsa:330+hsa:331+hsa:79444"
         },
@@ -2068,6 +2153,7 @@ var graph = {
             "type": "circle",
             "label": "LAMC3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=LAMC3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=LAMC3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10319+hsa:1282+hsa:1284+hsa:1285+hsa:1286+hsa:1287+hsa:1288+hsa:22798+hsa:2335+hsa:284217+hsa:3908+hsa:3909+hsa:3910+hsa:3911+hsa:3912+hsa:3913+hsa:3914+hsa:3915+hsa:3918"
         },
@@ -2078,6 +2164,7 @@ var graph = {
             "type": "circle",
             "label": "CYCS",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CYCS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CYCS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:54205"
         },
@@ -2088,6 +2175,7 @@ var graph = {
             "type": "circle",
             "label": "FHIT",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FHIT",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FHIT",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2272"
         },
@@ -2098,6 +2186,7 @@ var graph = {
             "type": "circle",
             "label": "PTK2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTK2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTK2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5747"
         },
@@ -2108,6 +2197,7 @@ var graph = {
             "type": "circle",
             "label": "MAX",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAX",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAX",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4149"
         },
@@ -2118,6 +2208,7 @@ var graph = {
             "type": "circle",
             "label": "APAF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=APAF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=APAF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:317"
         },
@@ -2128,6 +2219,7 @@ var graph = {
             "type": "circle",
             "label": "CKS1B",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CKS1B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CKS1B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1163+hsa:1164"
         },
@@ -2138,6 +2230,7 @@ var graph = {
             "type": "circle",
             "label": "RARB",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RARB",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RARB",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5915"
         },
@@ -2148,6 +2241,7 @@ var graph = {
             "type": "circle",
             "label": "PIAS2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIAS2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIAS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9063"
         },
@@ -2158,6 +2252,7 @@ var graph = {
             "type": "circle",
             "label": "ITGA6",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ITGA6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ITGA6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3655+hsa:3673+hsa:3674+hsa:3675+hsa:3685"
         },
@@ -2168,6 +2263,7 @@ var graph = {
             "type": "circle",
             "label": "ITGB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ITGB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ITGB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3688"
         },
@@ -2178,6 +2274,7 @@ var graph = {
             "type": "circle",
             "label": "EIF4EBP1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EIF4EBP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EIF4EBP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1978"
         },
@@ -2188,6 +2285,7 @@ var graph = {
             "type": "circle",
             "label": "KIT",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=KIT",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=KIT",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3815"
         },
@@ -2198,6 +2296,7 @@ var graph = {
             "type": "circle",
             "label": "RPS6KB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RPS6KB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RPS6KB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6198+hsa:6199"
         },
@@ -2208,6 +2307,7 @@ var graph = {
             "type": "circle",
             "label": "PIM2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIM2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIM2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:11040"
         },
@@ -2218,6 +2318,7 @@ var graph = {
             "type": "circle",
             "label": "PIM1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIM1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIM1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5292"
         },
@@ -2228,6 +2329,7 @@ var graph = {
             "type": "circle",
             "label": "PML",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PML",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PML",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5371+hsa:5914"
         },
@@ -2238,6 +2340,7 @@ var graph = {
             "type": "circle",
             "label": "CCNA1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CCNA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CCNA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8900"
         },
@@ -2248,6 +2351,7 @@ var graph = {
             "type": "circle",
             "label": "JUP",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JUP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JUP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3728"
         },
@@ -2258,6 +2362,7 @@ var graph = {
             "type": "circle",
             "label": "STAT3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STAT3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6774+hsa:6776+hsa:6777"
         },
@@ -2268,6 +2373,7 @@ var graph = {
             "type": "circle",
             "label": "PPARD",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PPARD",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARD",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5467"
         },
@@ -2278,6 +2384,7 @@ var graph = {
             "type": "circle",
             "label": "RUNX1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RUNX1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RUNX1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:861+hsa:862"
         },
@@ -2288,6 +2395,7 @@ var graph = {
             "type": "circle",
             "label": "CEBPA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CEBPA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CEBPA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1050"
         },
@@ -2298,6 +2406,7 @@ var graph = {
             "type": "circle",
             "label": "SPI1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SPI1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SPI1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6688"
         },
@@ -2308,6 +2417,7 @@ var graph = {
             "type": "circle",
             "label": "FLT3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FLT3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2322"
         },
@@ -2318,6 +2428,7 @@ var graph = {
             "type": "circle",
             "label": "KRAS",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=KRAS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=KRAS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3845"
         },
@@ -2328,6 +2439,7 @@ var graph = {
             "type": "circle",
             "label": "RARA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RARA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RARA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5914+hsa:7704"
         },
@@ -2338,6 +2450,7 @@ var graph = {
             "type": "circle",
             "label": "SMAD3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMAD3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4088"
         },
@@ -2348,6 +2461,7 @@ var graph = {
             "type": "circle",
             "label": "CBLC",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CBLC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CBLC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:23624+hsa:867+hsa:868"
         },
@@ -2358,6 +2472,7 @@ var graph = {
             "type": "circle",
             "label": "CRK",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CRK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CRK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1398+hsa:1399"
         },
@@ -2368,6 +2483,7 @@ var graph = {
             "type": "circle",
             "label": "GAB2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GAB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GAB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9846"
         },
@@ -2378,6 +2494,7 @@ var graph = {
             "type": "circle",
             "label": "SHC2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SHC2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SHC2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:25759+hsa:399694+hsa:53358+hsa:6464"
         },
@@ -2388,6 +2505,7 @@ var graph = {
             "type": "circle",
             "label": "SMAD4",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMAD4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4089"
         },
@@ -2398,6 +2516,7 @@ var graph = {
             "type": "circle",
             "label": "STAT5A",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STAT5A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT5A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6776+hsa:6777"
         },
@@ -2408,6 +2527,7 @@ var graph = {
             "type": "circle",
             "label": "TGFBR1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFBR1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFBR1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7046"
         },
@@ -2418,6 +2538,7 @@ var graph = {
             "type": "circle",
             "label": "TGFBR2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFBR2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFBR2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7048"
         },
@@ -2428,6 +2549,7 @@ var graph = {
             "type": "circle",
             "label": "CTBP1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CTBP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CTBP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1487+hsa:1488"
         },
@@ -2438,6 +2560,7 @@ var graph = {
             "type": "circle",
             "label": "HDAC1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HDAC1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HDAC1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3065+hsa:3066"
         },
@@ -2448,6 +2571,7 @@ var graph = {
             "type": "circle",
             "label": "TGFB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7040+hsa:7042+hsa:7043"
         },
@@ -2458,6 +2582,7 @@ var graph = {
             "type": "circle",
             "label": "ABL1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ABL1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ABL1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:25+hsa:613"
         },
@@ -2468,6 +2593,7 @@ var graph = {
             "type": "circle",
             "label": "PTPN11",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTPN11",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPN11",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5781"
         },
@@ -2478,6 +2604,7 @@ var graph = {
             "type": "circle",
             "label": "BCL2L1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BCL2L1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BCL2L1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:598"
         },
@@ -2488,6 +2615,7 @@ var graph = {
             "type": "circle",
             "label": "MECOM",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MECOM",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MECOM",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2122"
         },
@@ -2498,6 +2626,7 @@ var graph = {
             "type": "circle",
             "label": "SRC",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SRC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SRC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6714"
         },
@@ -2508,6 +2637,7 @@ var graph = {
             "type": "circle",
             "label": "HBEGF",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HBEGF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HBEGF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1839"
         },
@@ -2518,6 +2648,7 @@ var graph = {
             "type": "circle",
             "label": "UPK3A",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=UPK3A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=UPK3A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7380"
         },
@@ -2528,6 +2659,7 @@ var graph = {
             "type": "circle",
             "label": "MMP2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MMP2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MMP2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4313+hsa:4318"
         },
@@ -2538,6 +2670,7 @@ var graph = {
             "type": "circle",
             "label": "RPS6KA5",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RPS6KA5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RPS6KA5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9252"
         },
@@ -2548,6 +2681,7 @@ var graph = {
             "type": "circle",
             "label": "FGFR3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FGFR3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2261"
         },
@@ -2558,6 +2692,7 @@ var graph = {
             "type": "circle",
             "label": "DAPK1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DAPK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DAPK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1612+hsa:1613+hsa:23604"
         },
@@ -2568,6 +2703,7 @@ var graph = {
             "type": "circle",
             "label": "RASSF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RASSF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RASSF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:11186"
         },
@@ -2578,6 +2714,7 @@ var graph = {
             "type": "circle",
             "label": "ERBB2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ERBB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2064"
         },
@@ -2588,6 +2725,7 @@ var graph = {
             "type": "circle",
             "label": "THBS1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=THBS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=THBS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7057"
         },
@@ -2598,6 +2736,7 @@ var graph = {
             "type": "circle",
             "label": "CXCL8",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CXCL8",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL8",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3576"
         },
@@ -2608,6 +2747,7 @@ var graph = {
             "type": "circle",
             "label": "VEGFA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=VEGFA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=VEGFA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7422"
         },
@@ -2618,6 +2758,7 @@ var graph = {
             "type": "circle",
             "label": "TYMP",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TYMP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TYMP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1890"
         },
@@ -2628,6 +2769,7 @@ var graph = {
             "type": "circle",
             "label": "MMP1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MMP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MMP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4312+hsa:4313+hsa:4318"
         },
@@ -2638,6 +2780,7 @@ var graph = {
             "type": "circle",
             "label": "CDKN2A",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN2A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN2A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1029"
         },
@@ -2648,6 +2791,7 @@ var graph = {
             "type": "circle",
             "label": "MITF",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MITF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4286"
         },
@@ -2658,6 +2802,7 @@ var graph = {
             "type": "circle",
             "label": "CDK4",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDK4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1019+hsa:1021"
         },
@@ -2668,6 +2813,7 @@ var graph = {
             "type": "circle",
             "label": "NRAS",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NRAS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NRAS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4893"
         },
@@ -2678,6 +2824,7 @@ var graph = {
             "type": "circle",
             "label": "HHIP",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HHIP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HHIP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:64399"
         },
@@ -2688,6 +2835,7 @@ var graph = {
             "type": "circle",
             "label": "SMO",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMO",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMO",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6608"
         },
@@ -2698,6 +2846,7 @@ var graph = {
             "type": "circle",
             "label": "STK36",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STK36",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STK36",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:27148"
         },
@@ -2708,6 +2857,7 @@ var graph = {
             "type": "circle",
             "label": "FZD10",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FZD10",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FZD10",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:11211+hsa:2535+hsa:7855+hsa:7976+hsa:8321+hsa:8322+hsa:8323+hsa:8324+hsa:8325+hsa:8326"
         },
@@ -2718,6 +2868,7 @@ var graph = {
             "type": "circle",
             "label": "DVL1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DVL1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DVL1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1855+hsa:1856+hsa:1857"
         },
@@ -2728,6 +2879,7 @@ var graph = {
             "type": "circle",
             "label": "AXIN1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=AXIN1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=AXIN1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8312+hsa:8313"
         },
@@ -2738,6 +2890,7 @@ var graph = {
             "type": "circle",
             "label": "SUFU",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SUFU",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SUFU",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:51684"
         },
@@ -2748,6 +2901,7 @@ var graph = {
             "type": "circle",
             "label": "APC2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=APC2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=APC2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10297+hsa:324"
         },
@@ -2758,6 +2912,7 @@ var graph = {
             "type": "circle",
             "label": "SHH",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SHH",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SHH",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6469"
         },
@@ -2768,6 +2923,7 @@ var graph = {
             "type": "circle",
             "label": "WNT16",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=WNT16",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=WNT16",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:51384+hsa:54361+hsa:7471+hsa:7472+hsa:7473+hsa:7474+hsa:7475+hsa:7476+hsa:7477+hsa:7478+hsa:7479+hsa:7480+hsa:7481+hsa:7482+hsa:7483+hsa:7484+hsa:80326+hsa:81029+hsa:89780"
         },
@@ -2778,6 +2934,7 @@ var graph = {
             "type": "circle",
             "label": "BMP2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BMP2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BMP2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:650+hsa:652"
         },
@@ -2788,6 +2945,7 @@ var graph = {
             "type": "circle",
             "label": "PTCH1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTCH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTCH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5727+hsa:8643"
         },
@@ -2798,6 +2956,7 @@ var graph = {
             "type": "circle",
             "label": "GLI1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GLI1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GLI1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2735"
         },
@@ -2806,10 +2965,11 @@ var graph = {
             "comment": ["BASA"],
             "community": ["Hedgehog signaling pathway", "Basal cell carcinoma"],
             "type": "circle",
-            "label": "K06227",
+            "label": "COS2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=K06227",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=K06227",
-            "url": "http://www.kegg.jp/dbget-bin/www_bget?K06227"
+            "url": "http://www.kegg.jp/dbget-bin/www_bget?COS2"
         },
         {
             "id": "3539",
@@ -2818,6 +2978,7 @@ var graph = {
             "type": "circle",
             "label": "TFG",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TFG",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TFG",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10342+hsa:4914+hsa:7170+hsa:7175"
         },
@@ -2828,6 +2989,7 @@ var graph = {
             "type": "circle",
             "label": "RET",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RET",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RET",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5979+hsa:8030+hsa:8031"
         },
@@ -2838,6 +3000,7 @@ var graph = {
             "type": "circle",
             "label": "CDH1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:999"
         },
@@ -2848,6 +3011,7 @@ var graph = {
             "type": "circle",
             "label": "MYC",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MYC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4609"
         },
@@ -2858,6 +3022,7 @@ var graph = {
             "type": "circle",
             "label": "RXRA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RXRA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RXRA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6256+hsa:6257+hsa:6258"
         },
@@ -2868,6 +3033,7 @@ var graph = {
             "type": "circle",
             "label": "BRAF",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BRAF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BRAF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:673"
         },
@@ -2878,6 +3044,7 @@ var graph = {
             "type": "circle",
             "label": "PPARG",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PPARG",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARG",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5468"
         },
@@ -2888,6 +3055,7 @@ var graph = {
             "type": "circle",
             "label": "ARAF",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ARAF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:369+hsa:5894+hsa:673"
         },
@@ -2898,6 +3066,7 @@ var graph = {
             "type": "circle",
             "label": "MAP2K1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAP2K1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAP2K1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5604+hsa:5605"
         },
@@ -2908,6 +3077,7 @@ var graph = {
             "type": "circle",
             "label": "MAPK1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAPK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5594+hsa:5595"
         },
@@ -2918,6 +3088,7 @@ var graph = {
             "type": "circle",
             "label": "GSTP1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GSTP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GSTP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2950"
         },
@@ -2928,6 +3099,7 @@ var graph = {
             "type": "circle",
             "label": "PIK3R5",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIK3R5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIK3R5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:23533+hsa:5290+hsa:5291+hsa:5293+hsa:5294+hsa:5295+hsa:5296+hsa:8503"
         },
@@ -2938,6 +3110,7 @@ var graph = {
             "type": "circle",
             "label": "AKT3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=AKT3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=AKT3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10000+hsa:207+hsa:208"
         },
@@ -2948,6 +3121,7 @@ var graph = {
             "type": "circle",
             "label": "MTOR",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MTOR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MTOR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2475"
         },
@@ -2958,6 +3132,7 @@ var graph = {
             "type": "circle",
             "label": "HSP90AA1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HSP90AA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HSP90AA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3320+hsa:3326+hsa:7184"
         },
@@ -2968,6 +3143,7 @@ var graph = {
             "type": "circle",
             "label": "GSK3B",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GSK3B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GSK3B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2932"
         },
@@ -2978,6 +3154,7 @@ var graph = {
             "type": "circle",
             "label": "GRB2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GRB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GRB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2885"
         },
@@ -2988,6 +3165,7 @@ var graph = {
             "type": "circle",
             "label": "SOS1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SOS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6654+hsa:6655"
         },
@@ -2998,6 +3176,7 @@ var graph = {
             "type": "circle",
             "label": "PDPK1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDPK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDPK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5170"
         },
@@ -3008,6 +3187,7 @@ var graph = {
             "type": "circle",
             "label": "RB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5925"
         },
@@ -3018,6 +3198,7 @@ var graph = {
             "type": "circle",
             "label": "EGF",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EGF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EGF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1950+hsa:2246+hsa:2247+hsa:2248+hsa:2249+hsa:2250+hsa:2251+hsa:2252+hsa:2253+hsa:2254+hsa:2255+hsa:2256+hsa:2257+hsa:2258+hsa:2259+hsa:26281+hsa:26291+hsa:27006+hsa:3082+hsa:3479+hsa:5154+hsa:5155+hsa:56034+hsa:80310+hsa:8074+hsa:8817+hsa:8822+hsa:8823+hsa:9965"
         },
@@ -3028,6 +3209,7 @@ var graph = {
             "type": "circle",
             "label": "CCNE1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CCNE1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CCNE1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:898+hsa:9134"
         },
@@ -3038,6 +3220,7 @@ var graph = {
             "type": "circle",
             "label": "CREB3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CREB3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CREB3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10488+hsa:1385+hsa:148327+hsa:468+hsa:64764+hsa:84699+hsa:90993+hsa:9586"
         },
@@ -3048,6 +3231,7 @@ var graph = {
             "type": "circle",
             "label": "CASP9",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CASP9",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CASP9",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:842"
         },
@@ -3058,6 +3242,7 @@ var graph = {
             "type": "circle",
             "label": "BAD",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BAD",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BAD",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:572"
         },
@@ -3068,6 +3253,7 @@ var graph = {
             "type": "circle",
             "label": "CHUK",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CHUK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CHUK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1147+hsa:3551+hsa:8517"
         },
@@ -3078,6 +3264,7 @@ var graph = {
             "type": "circle",
             "label": "EGFR",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EGFR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EGFR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1956+hsa:2260+hsa:3480+hsa:4233+hsa:5156+hsa:5159"
         },
@@ -3088,6 +3275,7 @@ var graph = {
             "type": "circle",
             "label": "TP53",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TP53",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TP53",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7157"
         },
@@ -3098,6 +3286,7 @@ var graph = {
             "type": "circle",
             "label": "HRAS",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HRAS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HRAS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3265+hsa:3845+hsa:4893"
         },
@@ -3108,6 +3297,7 @@ var graph = {
             "type": "circle",
             "label": "E2F1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=E2F1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=E2F1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1869+hsa:1870+hsa:1871"
         },
@@ -3118,6 +3308,7 @@ var graph = {
             "type": "circle",
             "label": "CTNNB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CTNNB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1499"
         },
@@ -3128,6 +3319,7 @@ var graph = {
             "type": "circle",
             "label": "CDK2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDK2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1017"
         },
@@ -3138,6 +3330,7 @@ var graph = {
             "type": "circle",
             "label": "FOXO1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FOXO1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FOXO1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2308"
         },
@@ -3148,6 +3341,7 @@ var graph = {
             "type": "circle",
             "label": "CDKN1A",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN1A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN1A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1026"
         },
@@ -3158,6 +3352,7 @@ var graph = {
             "type": "circle",
             "label": "MDM2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MDM2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MDM2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4193"
         },
@@ -3168,6 +3363,7 @@ var graph = {
             "type": "circle",
             "label": "CREBBP",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CREBBP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CREBBP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1387+hsa:2033"
         },
@@ -3178,6 +3374,7 @@ var graph = {
             "type": "circle",
             "label": "LEF1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=LEF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=LEF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:51176+hsa:6932+hsa:6934+hsa:83439"
         },
@@ -3188,6 +3385,7 @@ var graph = {
             "type": "circle",
             "label": "CCND1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CCND1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CCND1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:595"
         },
@@ -3198,6 +3396,7 @@ var graph = {
             "type": "circle",
             "label": "BCL2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BCL2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BCL2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:596"
         },
@@ -3208,6 +3407,7 @@ var graph = {
             "type": "circle",
             "label": "KLK3",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=KLK3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=KLK3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:354"
         },
@@ -3218,6 +3418,7 @@ var graph = {
             "type": "circle",
             "label": "NKX3-1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NKX3-1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NKX3-1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4824"
         },
@@ -3228,6 +3429,7 @@ var graph = {
             "type": "circle",
             "label": "PTEN",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTEN",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTEN",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5728"
         },
@@ -3238,6 +3440,7 @@ var graph = {
             "type": "circle",
             "label": "CDKN1B",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN1B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN1B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1027"
         },
@@ -3248,6 +3451,7 @@ var graph = {
             "type": "circle",
             "label": "NFKBIA",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NFKBIA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKBIA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4792"
         },
@@ -3258,6 +3462,7 @@ var graph = {
             "type": "circle",
             "label": "NFKB1",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NFKB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4790+hsa:5970"
         },
@@ -3268,6 +3473,7 @@ var graph = {
             "type": "circle",
             "label": "AR",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=AR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=AR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:367"
         },
@@ -3278,6 +3484,7 @@ var graph = {
             "type": "circle",
             "label": "SRD5A2",
             "tag": "gene",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SRD5A2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SRD5A2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6716"
         },
@@ -3331,7 +3538,7 @@ var graph = {
             "comment": ["RENA"],
             "community": ["Renal cell carcinoma", "HIF-1 signaling pathway"],
             "type": "diamond",
-            "label": "O<sub>2</sub>",
+            "label": "O&sub2",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C00007"
         },
@@ -3340,7 +3547,7 @@ var graph = {
             "comment": ["GLIO", "nSCLC"],
             "community": ["VEGF signaling pathway", "Estrogen signaling pathway", "Melanogenesis", "Glioma", "MAPK signaling pathway", "ErbB signaling pathway", "Non-small cell lung cancer", "Calcium signaling pathway", "HIF-1 signaling pathway"],
             "type": "diamond",
-            "label": "IP<sub>3</sub>",
+            "label": "IP&sub3",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C01245"
         },
@@ -3358,7 +3565,7 @@ var graph = {
             "comment": ["GLIO", "nSCLC"],
             "community": ["Glioma", "VEGF signaling pathway", "Non-small cell lung cancer", "Melanogenesis", "MAPK signaling pathway", "ErbB signaling pathway", "Apoptosis", "Wnt signaling pathway", "Calcium signaling pathway", "HIF-1 signaling pathway", "Estrogen signaling pathway"],
             "type": "diamond",
-            "label": "Ca<sup>2+</sup>",
+            "label": "Ca&sup3+",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C00076"
         },
@@ -3385,7 +3592,7 @@ var graph = {
             "comment": ["GLIO", "BRCA", "nSCLC", "MELA", "CMLE", "PANC", "ENDO", "PROS", "SCLC", "AMLE"],
             "community": ["Glioma", "Endometrial cancer", "Melanoma", "ErbB signaling pathway", "VEGF signaling pathway", "Apoptosis", "Pancreatic cancer", "Prostate cancer", "Breast cancer", "Acute myeloid leukemia", "Non-small cell lung cancer", "Small cell lung cancer", "Focal adhesion", "mTOR signaling pathway", "Chronic myeloid leukemia", "PI3K-Akt signaling pathway"],
             "type": "diamond",
-            "label": "PIP<sub>3</sub>",
+            "label": "PIP&sub3",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C05981"
         },
@@ -3641,8 +3848,7 @@ var graph = {
             "tag": "map",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa04115"
         }
-
-    ],
+],
     "directed": false,
     "multigraph": false
 }
@@ -4051,7 +4257,9 @@ function UpdateGenesNetwork() {
                 d.url + ' target=_blank>' + '<img src="http://www.genome.jp/Fig/kegg128.gif" style="width:28px;height:26px;">' +
                 "</a>" +  '<a href= ' +
                 d.glink + ' target=_blank>' + '<img src="http://www.genecards.org/Images/Chromosome.png" style="width:26px;height:26px;">' +
-                "</a>"                      // closing </a> tag
+                "</a>" + '<a href= ' +
+                d.golink + ' target=_blank>' + '<img src="http://amigo.geneontology.org/static/images/go-logo-icon.small.png" style="width:26px;height:26px;">' +
+                "</a>"          // closing </a> tag
             )
                 .style("left", (d3.event.pageX - 28) + "px")
                 .style("top", (d3.event.pageY - 28) + "px");
@@ -4487,4 +4695,3 @@ function UpdateGenesNetwork() {
     })
 
 }
-
