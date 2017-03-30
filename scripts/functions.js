@@ -1219,6 +1219,8 @@ var graph = {
             "label": "CAMK2A",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CAMK2A",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CAMK2A",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CAMK2A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMK2A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:815+hsa:816+hsa:817+hsa:818"
         },
@@ -1230,6 +1232,8 @@ var graph = {
             "label": "CALML6",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CALML6",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CALML6",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CALML6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CALML6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:163688+hsa:51806+hsa:801+hsa:805+hsa:808+hsa:810"
         },
@@ -1241,6 +1245,8 @@ var graph = {
             "label": "PDGFRA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDGFRA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PDGFRA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PDGFRA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFRA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5156+hsa:5159"
         },
@@ -1252,6 +1258,8 @@ var graph = {
             "label": "PDGFA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDGFA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PDGFA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PDGFA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5154+hsa:5155"
         },
@@ -1263,6 +1271,8 @@ var graph = {
             "label": "ELK1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ELK1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ELK1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ELK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ELK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2002"
         },
@@ -1274,6 +1284,8 @@ var graph = {
             "label": "ILK",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ILK",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ILK",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ILK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ILK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3611"
         },
@@ -1285,6 +1297,8 @@ var graph = {
             "label": "CTNNA1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CTNNA1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CTNNA1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CTNNA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1495+hsa:1496+hsa:29119"
         },
@@ -1296,6 +1310,8 @@ var graph = {
             "label": "MSH3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MSH3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MSH3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MSH3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MSH3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4437"
         },
@@ -1307,6 +1323,8 @@ var graph = {
             "label": "BAX",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BAX",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BAX",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BAX",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BAX",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:581"
         },
@@ -1318,6 +1336,8 @@ var graph = {
             "label": "MSH6",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MSH6",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MSH6",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MSH6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MSH6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2956"
         },
@@ -1329,6 +1349,8 @@ var graph = {
             "label": "BIRC5",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BIRC5",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BIRC5",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BIRC5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BIRC5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:332"
         },
@@ -1340,6 +1362,8 @@ var graph = {
             "label": "RHOA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RHOA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RHOA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RHOA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RHOA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:387+hsa:5879+hsa:5880+hsa:5881"
         },
@@ -1351,6 +1375,8 @@ var graph = {
             "label": "MSH2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MSH2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MSH2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MSH2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MSH2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4436"
         },
@@ -1362,6 +1388,8 @@ var graph = {
             "label": "MLH1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MLH1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MLH1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MLH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MLH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4292"
         },
@@ -1373,6 +1401,8 @@ var graph = {
             "label": "APPL1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=APPL1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=APPL1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=APPL1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=APPL1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:26060"
         },
@@ -1384,6 +1414,8 @@ var graph = {
             "label": "CASP3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CASP3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CASP3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CASP3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CASP3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:836"
         },
@@ -1395,6 +1427,8 @@ var graph = {
             "label": "DCC",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DCC",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=DCC",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=DCC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DCC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1630"
         },
@@ -1406,6 +1440,8 @@ var graph = {
             "label": "RAD51",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAD51",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RAD51",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RAD51",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAD51",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5888"
         },
@@ -1417,6 +1453,8 @@ var graph = {
             "label": "SMAD2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMAD2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SMAD2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SMAD2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4087+hsa:4088"
         },
@@ -1428,6 +1466,8 @@ var graph = {
             "label": "STAT1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STAT1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=STAT1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=STAT1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6772"
         },
@@ -1439,6 +1479,8 @@ var graph = {
             "label": "JAK1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JAK1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=JAK1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=JAK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JAK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3716"
         },
@@ -1450,6 +1492,8 @@ var graph = {
             "label": "MAPK8",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAPK8",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MAPK8",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MAPK8",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPK8",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5599+hsa:5601+hsa:5602"
         },
@@ -1461,6 +1505,8 @@ var graph = {
             "label": "PLD1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PLD1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PLD1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PLD1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PLD1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5337"
         },
@@ -1472,6 +1518,8 @@ var graph = {
             "label": "RALBP1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RALBP1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RALBP1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RALBP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RALBP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10928"
         },
@@ -1483,6 +1531,8 @@ var graph = {
             "label": "RALA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RALA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RALA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RALA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RALA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5898+hsa:5899"
         },
@@ -1494,6 +1544,8 @@ var graph = {
             "label": "RALGDS",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RALGDS",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RALGDS",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RALGDS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RALGDS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5900"
         },
@@ -1505,6 +1557,8 @@ var graph = {
             "label": "ARHGEF6",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ARHGEF6",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ARHGEF6",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ARHGEF6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ARHGEF6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9459"
         },
@@ -1516,6 +1570,8 @@ var graph = {
             "label": "FLT4",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FLT4",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FLT4",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FLT4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2324"
         },
@@ -1527,6 +1583,8 @@ var graph = {
             "label": "HEY1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HEY1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HEY1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HEY1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HEY1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:23462+hsa:23493+hsa:26508"
         },
@@ -1538,6 +1596,8 @@ var graph = {
             "label": "HES1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HES1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HES1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HES1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HES1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3280+hsa:388585"
         },
@@ -1549,6 +1609,8 @@ var graph = {
             "label": "FGF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FGF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FGF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FGF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FGF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2246+hsa:2247+hsa:2248+hsa:2249+hsa:2250+hsa:2251+hsa:2252+hsa:2253+hsa:2254+hsa:2255+hsa:2256+hsa:2257+hsa:2258+hsa:2259+hsa:26281+hsa:26291+hsa:27006+hsa:8074+hsa:8817+hsa:8822+hsa:8823+hsa:9965"
         },
@@ -1560,6 +1622,8 @@ var graph = {
             "label": "BRCA2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BRCA2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BRCA2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BRCA2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:675"
         },
@@ -1571,6 +1635,8 @@ var graph = {
             "label": "BRCA1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BRCA1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BRCA1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BRCA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:672"
         },
@@ -1582,6 +1648,8 @@ var graph = {
             "label": "TNFSF11",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TNFSF11",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TNFSF11",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TNFSF11",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8600"
         },
@@ -1593,6 +1661,8 @@ var graph = {
             "label": "WNT4",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=WNT4",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=WNT4",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=WNT4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=WNT4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:54361+hsa:7471"
         },
@@ -1604,6 +1674,8 @@ var graph = {
             "label": "FGFR1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FGFR1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FGFR1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FGFR1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2260"
         },
@@ -1615,6 +1687,8 @@ var graph = {
             "label": "NFKB2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NFKB2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NFKB2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NFKB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4791"
         },
@@ -1626,6 +1700,8 @@ var graph = {
             "label": "LRP6",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=LRP6",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=LRP6",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=LRP6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4040+hsa:4041"
         },
@@ -1637,6 +1713,8 @@ var graph = {
             "label": "FRAT1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FRAT1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FRAT1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FRAT1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FRAT1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10023+hsa:23401"
         },
@@ -1648,6 +1726,8 @@ var graph = {
             "label": "CSNK1A1L",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CSNK1A1L",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CSNK1A1L",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CSNK1A1L",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CSNK1A1L",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:122011+hsa:1452"
         },
@@ -1659,6 +1739,8 @@ var graph = {
             "label": "PGR",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PGR",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PGR",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PGR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PGR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5241"
         },
@@ -1670,6 +1752,8 @@ var graph = {
             "label": "DLL3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DLL3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=DLL3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=DLL3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DLL3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10683+hsa:28514+hsa:54567"
         },
@@ -1681,6 +1765,8 @@ var graph = {
             "label": "FOS",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FOS",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FOS",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FOS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FOS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2353"
         },
@@ -1692,6 +1778,8 @@ var graph = {
             "label": "IGF1R",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=IGF1R",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=IGF1R",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=IGF1R",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=IGF1R",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3480"
         },
@@ -1703,6 +1791,8 @@ var graph = {
             "label": "IGF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=IGF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=IGF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=IGF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=IGF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3479"
         },
@@ -1714,6 +1804,8 @@ var graph = {
             "label": "NOTCH1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NOTCH1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NOTCH1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NOTCH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NOTCH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4851+hsa:4853+hsa:4854+hsa:4855"
         },
@@ -1725,6 +1817,8 @@ var graph = {
             "label": "JAG1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JAG1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=JAG1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=JAG1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JAG1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:182+hsa:3714"
         },
@@ -1736,6 +1830,8 @@ var graph = {
             "label": "NCOA3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NCOA3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NCOA3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NCOA3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NCOA3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8202+hsa:8648"
         },
@@ -1747,6 +1843,8 @@ var graph = {
             "label": "ESR1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ESR1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ESR1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ESR1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ESR1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2099+hsa:2100"
         },
@@ -1758,6 +1856,8 @@ var graph = {
             "label": "HGF",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HGF",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HGF",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HGF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HGF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3082"
         },
@@ -1769,6 +1869,8 @@ var graph = {
             "label": "JUN",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JUN",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=JUN",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=JUN",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JUN",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3725"
         },
@@ -1780,6 +1882,8 @@ var graph = {
             "label": "ETS1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ETS1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ETS1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ETS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ETS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2113"
         },
@@ -1791,6 +1895,8 @@ var graph = {
             "label": "CDC42",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDC42",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDC42",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDC42",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC42",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:998"
         },
@@ -1802,6 +1908,8 @@ var graph = {
             "label": "RAP1A",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAP1A",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RAP1A",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RAP1A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5906+hsa:5908"
         },
@@ -1813,6 +1921,8 @@ var graph = {
             "label": "PAK4",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PAK4",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PAK4",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PAK4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PAK4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10298+hsa:106821730+hsa:5058+hsa:5062+hsa:5063+hsa:56924+hsa:57144"
         },
@@ -1824,6 +1934,8 @@ var graph = {
             "label": "GAB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GAB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=GAB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=GAB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GAB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2549"
         },
@@ -1835,6 +1947,8 @@ var graph = {
             "label": "MET",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MET",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MET",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MET",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MET",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4233"
         },
@@ -1846,6 +1960,8 @@ var graph = {
             "label": "RAPGEF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAPGEF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RAPGEF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RAPGEF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAPGEF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2889"
         },
@@ -1857,6 +1973,8 @@ var graph = {
             "label": "RAC1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RAC1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RAC1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RAC1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RAC1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5879+hsa:5880+hsa:5881"
         },
@@ -1868,6 +1986,8 @@ var graph = {
             "label": "FH",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FH",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FH",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FH",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FH",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2271"
         },
@@ -1879,6 +1999,8 @@ var graph = {
             "label": "FLCN",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FLCN",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FLCN",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FLCN",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FLCN",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:201163"
         },
@@ -1890,6 +2012,8 @@ var graph = {
             "label": "PDGFB",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDGFB",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PDGFB",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PDGFB",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDGFB",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5155"
         },
@@ -1901,6 +2025,8 @@ var graph = {
             "label": "EPAS1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EPAS1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=EPAS1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=EPAS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EPAS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2034+hsa:3091"
         },
@@ -1912,6 +2038,8 @@ var graph = {
             "label": "EGLN2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EGLN2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=EGLN2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=EGLN2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EGLN2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:112398+hsa:112399+hsa:54583"
         },
@@ -1923,6 +2051,8 @@ var graph = {
             "label": "VHL",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=VHL",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=VHL",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=VHL",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=VHL",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7428"
         },
@@ -1934,6 +2064,8 @@ var graph = {
             "label": "TCEB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TCEB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TCEB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TCEB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TCEB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6921"
         },
@@ -1945,6 +2077,8 @@ var graph = {
             "label": "TCEB2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TCEB2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TCEB2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TCEB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TCEB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6923"
         },
@@ -1956,6 +2090,8 @@ var graph = {
             "label": "RBX1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RBX1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RBX1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RBX1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RBX1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9978"
         },
@@ -1967,6 +2103,8 @@ var graph = {
             "label": "CUL2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CUL2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CUL2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CUL2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CUL2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8453"
         },
@@ -1978,6 +2116,8 @@ var graph = {
             "label": "ARNT",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ARNT",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ARNT",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ARNT",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ARNT",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:405+hsa:9915"
         },
@@ -1989,6 +2129,8 @@ var graph = {
             "label": "SLC2A1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SLC2A1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SLC2A1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SLC2A1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC2A1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6513"
         },
@@ -2000,6 +2142,8 @@ var graph = {
             "label": "ALK",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ALK",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ALK",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ALK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ALK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:238+hsa:27436"
         },
@@ -2011,6 +2155,8 @@ var graph = {
             "label": "PIK3CA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIK3CA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PIK3CA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PIK3CA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIK3CA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5290+hsa:5291+hsa:5293+hsa:5294"
         },
@@ -2022,6 +2168,8 @@ var graph = {
             "label": "RASSF5",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RASSF5",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RASSF5",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RASSF5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RASSF5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:83593"
         },
@@ -2033,6 +2181,8 @@ var graph = {
             "label": "STK4",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STK4",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=STK4",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=STK4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STK4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6789"
         },
@@ -2044,6 +2194,8 @@ var graph = {
             "label": "TGFA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TGFA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TGFA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7039"
         },
@@ -2055,6 +2207,8 @@ var graph = {
             "label": "PLCG1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PLCG1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PLCG1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PLCG1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PLCG1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5335+hsa:5336"
         },
@@ -2066,6 +2220,8 @@ var graph = {
             "label": "FOXO3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FOXO3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FOXO3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FOXO3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FOXO3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2309"
         },
@@ -2077,6 +2233,8 @@ var graph = {
             "label": "PRKCA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PRKCA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PRKCA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PRKCA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKCA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5578+hsa:5579+hsa:5582"
         },
@@ -2088,6 +2246,8 @@ var graph = {
             "label": "CDKN2B",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN2B",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDKN2B",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDKN2B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN2B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1030"
         },
@@ -2099,6 +2259,8 @@ var graph = {
             "label": "SKP2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SKP2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SKP2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SKP2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SKP2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6502"
         },
@@ -2110,6 +2272,8 @@ var graph = {
             "label": "TRAF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TRAF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TRAF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TRAF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TRAF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7185+hsa:7186+hsa:7187+hsa:7188+hsa:7189+hsa:9618"
         },
@@ -2121,6 +2285,8 @@ var graph = {
             "label": "PTGS2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTGS2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PTGS2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PTGS2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTGS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5743"
         },
@@ -2132,6 +2298,8 @@ var graph = {
             "label": "NOS2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NOS2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NOS2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NOS2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NOS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4843"
         },
@@ -2143,6 +2311,8 @@ var graph = {
             "label": "BIRC8",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BIRC8",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BIRC8",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BIRC8",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BIRC8",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:112401+hsa:329+hsa:330+hsa:331+hsa:79444"
         },
@@ -2154,6 +2324,8 @@ var graph = {
             "label": "LAMC3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=LAMC3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=LAMC3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=LAMC3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=LAMC3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10319+hsa:1282+hsa:1284+hsa:1285+hsa:1286+hsa:1287+hsa:1288+hsa:22798+hsa:2335+hsa:284217+hsa:3908+hsa:3909+hsa:3910+hsa:3911+hsa:3912+hsa:3913+hsa:3914+hsa:3915+hsa:3918"
         },
@@ -2165,6 +2337,8 @@ var graph = {
             "label": "CYCS",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CYCS",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CYCS",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CYCS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CYCS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:54205"
         },
@@ -2176,6 +2350,8 @@ var graph = {
             "label": "FHIT",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FHIT",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FHIT",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FHIT",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FHIT",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2272"
         },
@@ -2187,6 +2363,8 @@ var graph = {
             "label": "PTK2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTK2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PTK2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PTK2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTK2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5747"
         },
@@ -2198,6 +2376,8 @@ var graph = {
             "label": "MAX",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAX",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MAX",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MAX",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAX",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4149"
         },
@@ -2209,6 +2389,8 @@ var graph = {
             "label": "APAF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=APAF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=APAF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=APAF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=APAF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:317"
         },
@@ -2220,6 +2402,8 @@ var graph = {
             "label": "CKS1B",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CKS1B",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CKS1B",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CKS1B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CKS1B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1163+hsa:1164"
         },
@@ -2231,6 +2415,8 @@ var graph = {
             "label": "RARB",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RARB",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RARB",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RARB",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RARB",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5915"
         },
@@ -2242,6 +2428,8 @@ var graph = {
             "label": "PIAS2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIAS2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PIAS2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PIAS2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIAS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9063"
         },
@@ -2253,6 +2441,8 @@ var graph = {
             "label": "ITGA6",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ITGA6",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ITGA6",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ITGA6",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ITGA6",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3655+hsa:3673+hsa:3674+hsa:3675+hsa:3685"
         },
@@ -2264,6 +2454,8 @@ var graph = {
             "label": "ITGB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ITGB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ITGB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ITGB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ITGB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3688"
         },
@@ -2275,6 +2467,8 @@ var graph = {
             "label": "EIF4EBP1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EIF4EBP1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=EIF4EBP1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=EIF4EBP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EIF4EBP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1978"
         },
@@ -2286,6 +2480,8 @@ var graph = {
             "label": "KIT",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=KIT",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=KIT",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=KIT",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=KIT",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3815"
         },
@@ -2297,6 +2493,8 @@ var graph = {
             "label": "RPS6KB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RPS6KB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RPS6KB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RPS6KB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RPS6KB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6198+hsa:6199"
         },
@@ -2308,6 +2506,8 @@ var graph = {
             "label": "PIM2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIM2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PIM2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PIM2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIM2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:11040"
         },
@@ -2319,6 +2519,8 @@ var graph = {
             "label": "PIM1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIM1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PIM1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PIM1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIM1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5292"
         },
@@ -2330,6 +2532,8 @@ var graph = {
             "label": "PML",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PML",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PML",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PML",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PML",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5371+hsa:5914"
         },
@@ -2341,6 +2545,8 @@ var graph = {
             "label": "CCNA1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CCNA1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CCNA1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CCNA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CCNA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8900"
         },
@@ -2352,6 +2558,8 @@ var graph = {
             "label": "JUP",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=JUP",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=JUP",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=JUP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=JUP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3728"
         },
@@ -2363,6 +2571,8 @@ var graph = {
             "label": "STAT3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STAT3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=STAT3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=STAT3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6774+hsa:6776+hsa:6777"
         },
@@ -2374,6 +2584,8 @@ var graph = {
             "label": "PPARD",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PPARD",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PPARD",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PPARD",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARD",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5467"
         },
@@ -2385,6 +2597,8 @@ var graph = {
             "label": "RUNX1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RUNX1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RUNX1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RUNX1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RUNX1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:861+hsa:862"
         },
@@ -2396,6 +2610,8 @@ var graph = {
             "label": "CEBPA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CEBPA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CEBPA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CEBPA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CEBPA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1050"
         },
@@ -2407,6 +2623,8 @@ var graph = {
             "label": "SPI1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SPI1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SPI1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SPI1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SPI1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6688"
         },
@@ -2418,6 +2636,8 @@ var graph = {
             "label": "FLT3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FLT3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FLT3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FLT3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FLT3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2322"
         },
@@ -2429,6 +2649,8 @@ var graph = {
             "label": "KRAS",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=KRAS",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=KRAS",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=KRAS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=KRAS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3845"
         },
@@ -2440,6 +2662,8 @@ var graph = {
             "label": "RARA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RARA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RARA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RARA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RARA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5914+hsa:7704"
         },
@@ -2451,6 +2675,8 @@ var graph = {
             "label": "SMAD3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMAD3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SMAD3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SMAD3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4088"
         },
@@ -2462,6 +2688,8 @@ var graph = {
             "label": "CBLC",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CBLC",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CBLC",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CBLC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CBLC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:23624+hsa:867+hsa:868"
         },
@@ -2473,6 +2701,8 @@ var graph = {
             "label": "CRK",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CRK",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CRK",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CRK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CRK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1398+hsa:1399"
         },
@@ -2484,6 +2714,8 @@ var graph = {
             "label": "GAB2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GAB2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=GAB2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=GAB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GAB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9846"
         },
@@ -2495,6 +2727,8 @@ var graph = {
             "label": "SHC2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SHC2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SHC2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SHC2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SHC2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:25759+hsa:399694+hsa:53358+hsa:6464"
         },
@@ -2506,6 +2740,8 @@ var graph = {
             "label": "SMAD4",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMAD4",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SMAD4",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SMAD4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4089"
         },
@@ -2517,6 +2753,8 @@ var graph = {
             "label": "STAT5A",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STAT5A",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=STAT5A",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=STAT5A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT5A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6776+hsa:6777"
         },
@@ -2528,6 +2766,8 @@ var graph = {
             "label": "TGFBR1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFBR1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TGFBR1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TGFBR1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFBR1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7046"
         },
@@ -2539,6 +2779,8 @@ var graph = {
             "label": "TGFBR2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFBR2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TGFBR2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TGFBR2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFBR2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7048"
         },
@@ -2550,6 +2792,8 @@ var graph = {
             "label": "CTBP1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CTBP1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CTBP1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CTBP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CTBP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1487+hsa:1488"
         },
@@ -2561,6 +2805,8 @@ var graph = {
             "label": "HDAC1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HDAC1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HDAC1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HDAC1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HDAC1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3065+hsa:3066"
         },
@@ -2572,6 +2818,8 @@ var graph = {
             "label": "TGFB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TGFB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TGFB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TGFB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7040+hsa:7042+hsa:7043"
         },
@@ -2583,6 +2831,8 @@ var graph = {
             "label": "ABL1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ABL1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ABL1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ABL1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ABL1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:25+hsa:613"
         },
@@ -2594,6 +2844,8 @@ var graph = {
             "label": "PTPN11",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTPN11",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PTPN11",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PTPN11",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPN11",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5781"
         },
@@ -2605,6 +2857,8 @@ var graph = {
             "label": "BCL2L1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BCL2L1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BCL2L1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BCL2L1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BCL2L1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:598"
         },
@@ -2616,6 +2870,8 @@ var graph = {
             "label": "MECOM",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MECOM",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MECOM",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MECOM",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MECOM",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2122"
         },
@@ -2627,6 +2883,8 @@ var graph = {
             "label": "SRC",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SRC",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SRC",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SRC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SRC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6714"
         },
@@ -2638,6 +2896,8 @@ var graph = {
             "label": "HBEGF",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HBEGF",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HBEGF",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HBEGF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HBEGF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1839"
         },
@@ -2649,6 +2909,8 @@ var graph = {
             "label": "UPK3A",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=UPK3A",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=UPK3A",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=UPK3A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=UPK3A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7380"
         },
@@ -2660,6 +2922,8 @@ var graph = {
             "label": "MMP2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MMP2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MMP2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MMP2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MMP2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4313+hsa:4318"
         },
@@ -2671,6 +2935,8 @@ var graph = {
             "label": "RPS6KA5",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RPS6KA5",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RPS6KA5",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RPS6KA5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RPS6KA5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:9252"
         },
@@ -2682,6 +2948,8 @@ var graph = {
             "label": "FGFR3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FGFR3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FGFR3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FGFR3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2261"
         },
@@ -2693,6 +2961,8 @@ var graph = {
             "label": "DAPK1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DAPK1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=DAPK1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=DAPK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DAPK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1612+hsa:1613+hsa:23604"
         },
@@ -2704,6 +2974,8 @@ var graph = {
             "label": "RASSF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RASSF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RASSF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RASSF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RASSF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:11186"
         },
@@ -2715,6 +2987,8 @@ var graph = {
             "label": "ERBB2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ERBB2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ERBB2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ERBB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ERBB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2064"
         },
@@ -2726,6 +3000,8 @@ var graph = {
             "label": "THBS1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=THBS1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=THBS1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=THBS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=THBS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7057"
         },
@@ -2737,6 +3013,8 @@ var graph = {
             "label": "CXCL8",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CXCL8",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CXCL8",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CXCL8",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CXCL8",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3576"
         },
@@ -2748,6 +3026,8 @@ var graph = {
             "label": "VEGFA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=VEGFA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=VEGFA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=VEGFA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=VEGFA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7422"
         },
@@ -2759,6 +3039,8 @@ var graph = {
             "label": "TYMP",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TYMP",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TYMP",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TYMP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TYMP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1890"
         },
@@ -2770,6 +3052,8 @@ var graph = {
             "label": "MMP1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MMP1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MMP1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MMP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MMP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4312+hsa:4313+hsa:4318"
         },
@@ -2781,6 +3065,8 @@ var graph = {
             "label": "CDKN2A",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN2A",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDKN2A",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDKN2A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN2A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1029"
         },
@@ -2792,6 +3078,8 @@ var graph = {
             "label": "MITF",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MITF",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MITF",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MITF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4286"
         },
@@ -2803,6 +3091,8 @@ var graph = {
             "label": "CDK4",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDK4",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDK4",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDK4",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK4",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1019+hsa:1021"
         },
@@ -2814,6 +3104,8 @@ var graph = {
             "label": "NRAS",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NRAS",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NRAS",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NRAS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NRAS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4893"
         },
@@ -2825,6 +3117,8 @@ var graph = {
             "label": "HHIP",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HHIP",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HHIP",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HHIP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HHIP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:64399"
         },
@@ -2836,6 +3130,8 @@ var graph = {
             "label": "SMO",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SMO",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SMO",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SMO",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SMO",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6608"
         },
@@ -2847,6 +3143,8 @@ var graph = {
             "label": "STK36",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=STK36",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=STK36",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=STK36",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=STK36",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:27148"
         },
@@ -2858,6 +3156,8 @@ var graph = {
             "label": "FZD10",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FZD10",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FZD10",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FZD10",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FZD10",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:11211+hsa:2535+hsa:7855+hsa:7976+hsa:8321+hsa:8322+hsa:8323+hsa:8324+hsa:8325+hsa:8326"
         },
@@ -2869,6 +3169,8 @@ var graph = {
             "label": "DVL1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=DVL1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=DVL1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=DVL1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=DVL1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1855+hsa:1856+hsa:1857"
         },
@@ -2880,6 +3182,8 @@ var graph = {
             "label": "AXIN1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=AXIN1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=AXIN1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=AXIN1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=AXIN1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:8312+hsa:8313"
         },
@@ -2891,6 +3195,8 @@ var graph = {
             "label": "SUFU",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SUFU",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SUFU",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SUFU",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SUFU",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:51684"
         },
@@ -2902,6 +3208,8 @@ var graph = {
             "label": "APC2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=APC2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=APC2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=APC2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=APC2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10297+hsa:324"
         },
@@ -2913,6 +3221,8 @@ var graph = {
             "label": "SHH",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SHH",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SHH",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SHH",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SHH",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6469"
         },
@@ -2924,6 +3234,8 @@ var graph = {
             "label": "WNT16",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=WNT16",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=WNT16",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=WNT16",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=WNT16",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:51384+hsa:54361+hsa:7471+hsa:7472+hsa:7473+hsa:7474+hsa:7475+hsa:7476+hsa:7477+hsa:7478+hsa:7479+hsa:7480+hsa:7481+hsa:7482+hsa:7483+hsa:7484+hsa:80326+hsa:81029+hsa:89780"
         },
@@ -2935,6 +3247,8 @@ var graph = {
             "label": "BMP2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BMP2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BMP2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BMP2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BMP2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:650+hsa:652"
         },
@@ -2946,6 +3260,8 @@ var graph = {
             "label": "PTCH1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTCH1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PTCH1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PTCH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTCH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5727+hsa:8643"
         },
@@ -2957,6 +3273,8 @@ var graph = {
             "label": "GLI1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GLI1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=GLI1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=GLI1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GLI1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2735"
         },
@@ -2967,8 +3285,10 @@ var graph = {
             "type": "circle",
             "label": "COS2",
             "tag": "gene",
-            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=K06227",
-            "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=K06227",
+            "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=COS2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=COS2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=COS2",
+            "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=COS2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?COS2"
         },
         {
@@ -2979,6 +3299,8 @@ var graph = {
             "label": "TFG",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TFG",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TFG",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TFG",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TFG",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10342+hsa:4914+hsa:7170+hsa:7175"
         },
@@ -2990,6 +3312,8 @@ var graph = {
             "label": "RET",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RET",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RET",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RET",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RET",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5979+hsa:8030+hsa:8031"
         },
@@ -3001,6 +3325,8 @@ var graph = {
             "label": "CDH1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDH1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDH1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDH1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDH1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:999"
         },
@@ -3012,6 +3338,8 @@ var graph = {
             "label": "MYC",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MYC",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MYC",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MYC",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MYC",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4609"
         },
@@ -3023,6 +3351,8 @@ var graph = {
             "label": "RXRA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RXRA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RXRA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RXRA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RXRA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6256+hsa:6257+hsa:6258"
         },
@@ -3034,6 +3364,8 @@ var graph = {
             "label": "BRAF",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BRAF",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BRAF",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BRAF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BRAF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:673"
         },
@@ -3045,6 +3377,8 @@ var graph = {
             "label": "PPARG",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PPARG",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PPARG",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PPARG",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PPARG",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5468"
         },
@@ -3056,6 +3390,8 @@ var graph = {
             "label": "ARAF",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=ARAF",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=ARAF",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=ARAF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:369+hsa:5894+hsa:673"
         },
@@ -3067,6 +3403,8 @@ var graph = {
             "label": "MAP2K1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAP2K1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MAP2K1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MAP2K1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAP2K1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5604+hsa:5605"
         },
@@ -3078,6 +3416,8 @@ var graph = {
             "label": "MAPK1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MAPK1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MAPK1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MAPK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MAPK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5594+hsa:5595"
         },
@@ -3089,6 +3429,8 @@ var graph = {
             "label": "GSTP1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GSTP1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=GSTP1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=GSTP1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GSTP1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2950"
         },
@@ -3100,6 +3442,8 @@ var graph = {
             "label": "PIK3R5",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PIK3R5",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PIK3R5",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PIK3R5",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PIK3R5",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:23533+hsa:5290+hsa:5291+hsa:5293+hsa:5294+hsa:5295+hsa:5296+hsa:8503"
         },
@@ -3111,6 +3455,8 @@ var graph = {
             "label": "AKT3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=AKT3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=AKT3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=AKT3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=AKT3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10000+hsa:207+hsa:208"
         },
@@ -3122,6 +3468,8 @@ var graph = {
             "label": "MTOR",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MTOR",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MTOR",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MTOR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MTOR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2475"
         },
@@ -3133,6 +3481,8 @@ var graph = {
             "label": "HSP90AA1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HSP90AA1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HSP90AA1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HSP90AA1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HSP90AA1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3320+hsa:3326+hsa:7184"
         },
@@ -3144,6 +3494,8 @@ var graph = {
             "label": "GSK3B",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GSK3B",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=GSK3B",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=GSK3B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GSK3B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2932"
         },
@@ -3155,6 +3507,8 @@ var graph = {
             "label": "GRB2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=GRB2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=GRB2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=GRB2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=GRB2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2885"
         },
@@ -3166,6 +3520,8 @@ var graph = {
             "label": "SOS1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SOS1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SOS1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SOS1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6654+hsa:6655"
         },
@@ -3177,6 +3533,8 @@ var graph = {
             "label": "PDPK1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PDPK1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PDPK1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PDPK1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PDPK1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5170"
         },
@@ -3188,6 +3546,8 @@ var graph = {
             "label": "RB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=RB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=RB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=RB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=RB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5925"
         },
@@ -3199,6 +3559,8 @@ var graph = {
             "label": "EGF",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EGF",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=EGF",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=EGF",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EGF",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1950+hsa:2246+hsa:2247+hsa:2248+hsa:2249+hsa:2250+hsa:2251+hsa:2252+hsa:2253+hsa:2254+hsa:2255+hsa:2256+hsa:2257+hsa:2258+hsa:2259+hsa:26281+hsa:26291+hsa:27006+hsa:3082+hsa:3479+hsa:5154+hsa:5155+hsa:56034+hsa:80310+hsa:8074+hsa:8817+hsa:8822+hsa:8823+hsa:9965"
         },
@@ -3210,6 +3572,8 @@ var graph = {
             "label": "CCNE1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CCNE1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CCNE1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CCNE1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CCNE1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:898+hsa:9134"
         },
@@ -3221,6 +3585,8 @@ var graph = {
             "label": "CREB3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CREB3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CREB3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CREB3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CREB3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:10488+hsa:1385+hsa:148327+hsa:468+hsa:64764+hsa:84699+hsa:90993+hsa:9586"
         },
@@ -3232,6 +3598,8 @@ var graph = {
             "label": "CASP9",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CASP9",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CASP9",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CASP9",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CASP9",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:842"
         },
@@ -3243,6 +3611,8 @@ var graph = {
             "label": "BAD",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BAD",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BAD",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BAD",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BAD",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:572"
         },
@@ -3254,6 +3624,8 @@ var graph = {
             "label": "CHUK",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CHUK",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CHUK",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CHUK",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CHUK",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1147+hsa:3551+hsa:8517"
         },
@@ -3265,6 +3637,8 @@ var graph = {
             "label": "EGFR",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=EGFR",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=EGFR",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=EGFR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=EGFR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1956+hsa:2260+hsa:3480+hsa:4233+hsa:5156+hsa:5159"
         },
@@ -3276,6 +3650,8 @@ var graph = {
             "label": "TP53",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=TP53",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=TP53",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=TP53",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=TP53",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:7157"
         },
@@ -3287,6 +3663,8 @@ var graph = {
             "label": "HRAS",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=HRAS",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=HRAS",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=HRAS",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=HRAS",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:3265+hsa:3845+hsa:4893"
         },
@@ -3298,6 +3676,8 @@ var graph = {
             "label": "E2F1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=E2F1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=E2F1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=E2F1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=E2F1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1869+hsa:1870+hsa:1871"
         },
@@ -3309,6 +3689,8 @@ var graph = {
             "label": "CTNNB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CTNNB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CTNNB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CTNNB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1499"
         },
@@ -3320,6 +3702,8 @@ var graph = {
             "label": "CDK2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDK2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDK2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDK2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDK2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1017"
         },
@@ -3331,6 +3715,8 @@ var graph = {
             "label": "FOXO1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=FOXO1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=FOXO1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=FOXO1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=FOXO1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:2308"
         },
@@ -3342,6 +3728,8 @@ var graph = {
             "label": "CDKN1A",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN1A",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDKN1A",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDKN1A",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN1A",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1026"
         },
@@ -3353,6 +3741,8 @@ var graph = {
             "label": "MDM2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=MDM2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=MDM2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=MDM2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=MDM2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4193"
         },
@@ -3364,6 +3754,8 @@ var graph = {
             "label": "CREBBP",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CREBBP",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CREBBP",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CREBBP",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CREBBP",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1387+hsa:2033"
         },
@@ -3375,6 +3767,8 @@ var graph = {
             "label": "LEF1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=LEF1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=LEF1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=LEF1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=LEF1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:51176+hsa:6932+hsa:6934+hsa:83439"
         },
@@ -3386,6 +3780,8 @@ var graph = {
             "label": "CCND1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CCND1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CCND1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CCND1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CCND1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:595"
         },
@@ -3397,6 +3793,8 @@ var graph = {
             "label": "BCL2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=BCL2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=BCL2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=BCL2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=BCL2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:596"
         },
@@ -3408,6 +3806,8 @@ var graph = {
             "label": "KLK3",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=KLK3",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=KLK3",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=KLK3",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=KLK3",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:354"
         },
@@ -3419,6 +3819,8 @@ var graph = {
             "label": "NKX3-1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NKX3-1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NKX3-1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NKX3-1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NKX3-1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4824"
         },
@@ -3430,6 +3832,8 @@ var graph = {
             "label": "PTEN",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=PTEN",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=PTEN",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=PTEN",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=PTEN",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:5728"
         },
@@ -3441,6 +3845,8 @@ var graph = {
             "label": "CDKN1B",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=CDKN1B",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=CDKN1B",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=CDKN1B",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=CDKN1B",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:1027"
         },
@@ -3452,6 +3858,8 @@ var graph = {
             "label": "NFKBIA",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NFKBIA",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NFKBIA",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NFKBIA",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKBIA",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4792"
         },
@@ -3463,6 +3871,8 @@ var graph = {
             "label": "NFKB1",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=NFKB1",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=NFKB1",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=NFKB1",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=NFKB1",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:4790+hsa:5970"
         },
@@ -3474,6 +3884,8 @@ var graph = {
             "label": "AR",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=AR",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=AR",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=AR",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=AR",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:367"
         },
@@ -3485,6 +3897,8 @@ var graph = {
             "label": "SRD5A2",
             "tag": "gene",
             "golink": "http://amigo.geneontology.org/amigo/search/bioentity?q=SRD5A2",
+            "elink": "http://ensembl.org/Homo_sapiens/Gene/Summary?g=SRD5A2",
+            "alink": "https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/av.cgi?db=human&term=SRD5A2",
             "glink": "http://www.genecards.org/cgi-bin/carddisp.pl?gene=SRD5A2",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa:6716"
         },
@@ -3847,7 +4261,7 @@ var graph = {
             "label": "p53 signaling pathway",
             "tag": "map",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa04115"
-        }
+        },
 ],
     "directed": false,
     "multigraph": false
@@ -4256,10 +4670,17 @@ function UpdateGenesNetwork() {
                 '<a href= ' +
                 d.url + ' target=_blank>' + '<img src="http://www.genome.jp/Fig/kegg128.gif" style="width:28px;height:26px;">' +
                 "</a>" +  '<a href= ' +
+                d.alink + ' target=_blank>' + '<img src="https://www.ncbi.nlm.nih.gov/corehtml/logo256.gif" style="width:26px;height:26px;">' +
+                "</a>" + '<a href= ' +
                 d.glink + ' target=_blank>' + '<img src="http://www.genecards.org/Images/Chromosome.png" style="width:26px;height:26px;">' +
                 "</a>" + '<a href= ' +
                 d.golink + ' target=_blank>' + '<img src="http://amigo.geneontology.org/static/images/go-logo-icon.small.png" style="width:26px;height:26px;">' +
-                "</a>"          // closing </a> tag
+                "</a>" + '<a href= ' +
+                d.elink + ' target=_blank>' + '<img src="http://www.ensembl.org/apple-touch-icon.png" style="width:26px;height:26px;">' +
+                "</a>"// + '<a href=' +
+                //d.aceview + ' target=_blank>' + '<img src="http://genatlas.medecine.univ-paris5.fr/google/genatlas_alx.jpg" style="width:26px;height:26px;">' +
+                //"</a>"
+                // closing </a> tag
             )
                 .style("left", (d3.event.pageX - 28) + "px")
                 .style("top", (d3.event.pageY - 28) + "px");
@@ -4695,3 +5116,4 @@ function UpdateGenesNetwork() {
     })
 
 }
+
