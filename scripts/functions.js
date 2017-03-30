@@ -3952,7 +3952,7 @@ var graph = {
             "comment": ["RENA"],
             "community": ["Renal cell carcinoma", "HIF-1 signaling pathway"],
             "type": "diamond",
-            "label": "O&sub2",
+            "label": "O<sub>2</sub>",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C00007"
         },
@@ -3961,7 +3961,7 @@ var graph = {
             "comment": ["GLIO", "nSCLC"],
             "community": ["VEGF signaling pathway", "Estrogen signaling pathway", "Melanogenesis", "Glioma", "MAPK signaling pathway", "ErbB signaling pathway", "Non-small cell lung cancer", "Calcium signaling pathway", "HIF-1 signaling pathway"],
             "type": "diamond",
-            "label": "IP&sub3",
+            "label": "IP<sub>3</sub>",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C01245"
         },
@@ -3979,7 +3979,7 @@ var graph = {
             "comment": ["GLIO", "nSCLC"],
             "community": ["Glioma", "VEGF signaling pathway", "Non-small cell lung cancer", "Melanogenesis", "MAPK signaling pathway", "ErbB signaling pathway", "Apoptosis", "Wnt signaling pathway", "Calcium signaling pathway", "HIF-1 signaling pathway", "Estrogen signaling pathway"],
             "type": "diamond",
-            "label": "Ca&sup3+",
+            "label": "Ca<sup>2+</sup>",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C00076"
         },
@@ -4006,7 +4006,7 @@ var graph = {
             "comment": ["GLIO", "BRCA", "nSCLC", "MELA", "CMLE", "PANC", "ENDO", "PROS", "SCLC", "AMLE"],
             "community": ["Glioma", "Endometrial cancer", "Melanoma", "ErbB signaling pathway", "VEGF signaling pathway", "Apoptosis", "Pancreatic cancer", "Prostate cancer", "Breast cancer", "Acute myeloid leukemia", "Non-small cell lung cancer", "Small cell lung cancer", "Focal adhesion", "mTOR signaling pathway", "Chronic myeloid leukemia", "PI3K-Akt signaling pathway"],
             "type": "diamond",
-            "label": "PIP&sub3",
+            "label": "PIP<sub>3</sub>",
             "tag": "compound",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?C05981"
         },
