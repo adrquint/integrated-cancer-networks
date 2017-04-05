@@ -4262,7 +4262,7 @@ var graph = {
             "tag": "map",
             "url": "http://www.kegg.jp/dbget-bin/www_bget?hsa04115"
         },
-],
+    ],
     "directed": false,
     "multigraph": false
 }
@@ -4807,7 +4807,7 @@ function UpdateGenesNetwork() {
 
         resize();
         //window.focus();
-      //  d3.select(window).on("resize", resize).on("keydown", keydown);
+        //  d3.select(window).on("resize", resize).on("keydown", keydown);
 
         force.on("tick", function () {
 
@@ -5040,6 +5040,8 @@ function UpdateGenesNetwork() {
         d3.select(this).classed("selected", !isSelected);
         var selectedvalue = d3.select("#svgbubble").selectAll('.selected');
 
+        selectedvalue.style("stroke", "red").style("stroke-width", "3px")
+        
         selectedvalue.each(function (d, i) {
             store_protein.push(d.genes);
             groups.push({"key": d.key,"id": d.id,"values":d.values, "color":d.color})
